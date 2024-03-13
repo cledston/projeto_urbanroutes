@@ -1,1 +1,2 @@
-# projeto_urbanroutes
+Testando a interface e a lógica de um aplicativo como o Urbanroutes é uma tarefa desafiadora, mas crucial para garantir uma experiência de usuário consistente e livre de erros. Ao aplicar o design de testes, estou adotando uma abordagem estruturada e abrangente para garantir que todos os aspectos críticos do aplicativo sejam testados de forma adequada.
+A criação de casos de teste é fundamental para guiar o processo de teste e garantir que todas as funcionalidades sejam verificadas de maneira sistemática. Além disso, a implementação de bugs no Jira facilita o rastreamento e a resolução de problemas identificados durante os testes, permitindo que a equipe de desenvolvimento priorize e aborde eficientemente essas questões.
